@@ -9,7 +9,7 @@ HTTP request is cumbersome at least.
 There's bad practices, inconsistencies and confusion. This library is
 effectively a wrapper around the following PHP constructs:
 
-For Input:
+For Input: 
 
 * `$_GET`,
 * `$_POST`,
